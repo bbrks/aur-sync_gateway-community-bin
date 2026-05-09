@@ -3,7 +3,7 @@
 
 pkgname=sync_gateway-community-bin
 pkgver=4.0.4
-pkgrel=1
+pkgrel=2
 pkgdesc="Manages access and synchronization between Couchbase Lite and Couchbase Server - Community Edition (CE)"
 url="https://github.com/couchbase/sync_gateway"
 arch=('x86_64')
